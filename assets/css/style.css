@@ -1,0 +1,51 @@
+body {
+  margin: 0;
+  padding: 0;
+  color: #fff;
+}
+
+.wrapper {
+   padding-top: 33px;
+}
+
+li {
+  list-style: none;
+}
+
+.background_head {
+  background-image: url('/assets/image/bgc.png');
+  width: 1920px;
+  height: 800px;
+}
+
+.logo {
+   padding-left: 188px;
+   margin-right: 311px;
+}
+
+.head_elements {
+  display: flex;
+}
+
+.main-menu {
+  margin-top: -10px;
+}
+
+.main-menu ul {
+  display: flex;
+}
+
+.main-menu li {
+  margin-right: 47px;
+}
+
+.search_lang {
+  margin-left: 300px;
+}
+
+hr {
+  color: #fff;
+  height: 5px;
+  width: 10px;
+}
+
