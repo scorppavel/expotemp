@@ -75,9 +75,40 @@ hr {
   display: flex;
 }
 
-.bloks {
-  padding-left: 150px;
+.blocks {
+  margin: -50px 0 0 945px;
+  display: flex;
 }
+
+.first_block {
+  background-color: #2378FC;
+  width: 255px;
+  height: 148px;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 21px;
+  line-height: 130%;
+}
+
+.second_block {
+  background-color: #30BCC9;
+  width: 255px;
+  height: 148px;
+}
+
+.third_block {
+  background-color: #FFC41E;
+  width: 255px;
+  height: 148px;
+}
+
+.fourth_block {
+  background-color: #F6404F;
+  width: 255px;
+  height: 148px;
+}
+
+
 
 
 
