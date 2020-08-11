@@ -16,7 +16,8 @@ li {
 .arrow::after{
   content: "\2192";
   font-size: 25px;
- }
+  margin-left: 15px;
+}
 
 .background_head {
   background-image: url('/assets/image/bgc.png');
@@ -72,41 +73,67 @@ hr {
 }
 
 .details {
-  display: flex;
+ font-size: 16px;
+ padding-top: 25px;
 }
 
-.blocks {
-  margin: -50px 0 0 945px;
+.block_directions {
+  margin: -122px 0 53px 0;
+}
+
+.blocks_one {
   display: flex;
 }
 
 .first_block {
-  background-color: #2378FC;
-  width: 255px;
+  background: #2378FC;
+  width: 225px;
   height: 148px;
   font-style: normal;
   font-weight: 500;
   font-size: 21px;
-  line-height: 130%;
+  padding: 30px 0 0 40px;
+  margin:0 30px 0 975px;
 }
 
-.second_block {
-  background-color: #30BCC9;
-  width: 255px;
+.second_block  {
+  background: #30BCC9;
+  width: 225px;
   height: 148px;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 21px;
+  padding: 30px 0 0 40px;
+  margin-bottom: 30px;
+}
+
+.blocks_two {
+  display: flex;
 }
 
 .third_block {
-  background-color: #FFC41E;
-  width: 255px;
+  background: #FFC41E;
+  width: 225px;
   height: 148px;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 21px;
+  padding: 30px 0 0 40px;
+  margin: 0 30px 0 975px;
 }
 
-.fourth_block {
-  background-color: #F6404F;
-  width: 255px;
+.fouth_block {
+  background: #F6404F;
+  width: 225px;
   height: 148px;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 21px;
+  padding: 30px 0 0 40px;
 }
+
+
+
 
 
 
