@@ -191,6 +191,37 @@ hr {
   text-decoration: underline;
 }
 
+.past_plans_pictures_one {
+  display: flex;
+}
+
+.events_blocks {
+  margin-right: 30px;
+}
+
+.expo_pictures img {
+  margin-bottom: 10px;
+}
+
+.title_name {
+  color: #F6404F;
+  margin: 10px 0 10px 0;
+  font-weight: bold;
+  font-size: 21px;
+  text-transform: uppercase;
+}
+
+.past_plans_pictures_two {
+  display: flex;
+  margin-top: 18px;
+  padding-bottom: 80px;
+}
+
+
+
+
+
+
 
 
 
