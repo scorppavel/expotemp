@@ -217,8 +217,13 @@ hr {
   padding-bottom: 80px;
 }
 
-.news_bloks {
+.news {
   background: #FAF3E3;
+  color:  #2E373B;
+}
+
+.news_blocks {
+  display: flex;
 }
 
 .news_image_one {
@@ -230,8 +235,28 @@ hr {
   padding-bottom: 85px;
 }
 
-.news_items {
-  color: #2E373B;
+.news_item {
+  padding: 75px 0 0 125px ;
+}
+
+.news_item_list {
+  display: flex;
+}
+
+.news_name {
+  font-weight: bold;
+  font-size: 30px;
+  margin-right: 265px;
+  margin-bottom: 30px;
+}
+
+.all_news {
+  font-weight: bold;
+  font-size: 21px;
+}
+
+.all_news span {
+  text-decoration: underline;
 }
 
 
