@@ -259,6 +259,21 @@ hr {
   text-decoration: underline;
 }
 
+.last_news_one {
+  display: flex;
+  margin-bottom: 30px;
+}
+
+.news_title {
+  color: #F6404F;
+  font-size: 16px;
+  margin: 15px 0 0px 30px;
+}
+
+.news_text {
+  padding-top: 25px;
+  color: #2E373B;
+}
 
 
 
