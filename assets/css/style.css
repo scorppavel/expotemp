@@ -306,6 +306,17 @@ hr {
   margin-right: 88px;
 }
 
+.about_company_text img {
+  margin: 10px 0 15px 0;
+}
+
+.about_company img {
+  padding-top: 30px;
+  width: 219px;
+  height: 25px;
+  margin-bottom: 50px;
+}
+
 
 
 
