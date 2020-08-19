@@ -306,16 +306,27 @@ hr {
   margin-right: 88px;
 }
 
-.about_company_text img {
-  margin: 10px 0 15px 0;
+.about_company_text {
+  margin-bottom: 12px;
 }
 
-.about_company img {
-  padding-top: 30px;
+.icongroup {
   width: 219px;
   height: 25px;
-  margin-bottom: 50px;
+  margin:30px 0 30px 0;
 }
+
+.subcribe_text {
+  color: #E0E0E0;
+  font-size: 14px;
+}
+
+.formimage {
+  margin-top: 25px;
+}
+
+
+
 
 
 
